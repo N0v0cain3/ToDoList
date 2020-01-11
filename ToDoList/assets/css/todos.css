@@ -55,8 +55,8 @@ background: linear-gradient(to right, #061161, #780206); /* W3C, IE 10+/ Edge, F
 }
 li{
 	background:white;
-	height:40px;
-	line-height:40px;
+	height:60px;
+	line-height:60px;
 	color:black;
 
 }
@@ -65,7 +65,7 @@ li:nth-child(2n){
 
 }
 input{
-	font-size:18px;
+	font-size:20px;
 	background:#f7f7f7;
 	width:100%;
 	padding:13px;
